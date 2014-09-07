@@ -1,4 +1,4 @@
 Website
 =======
 
-A website.
+Website for information about our beach house.
