@@ -1,7 +1,17 @@
 body {
 	background-image: url("small_steps.png");
 }
+
+img.1{
+	height: auto;
+}
+
+img.2{
+	height: auto;
+}
+
 #title{
 	text-align: center;
 	font-size:250%;
+	border-style: double;
 }
